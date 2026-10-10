@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Habibe 👋</h1>
-"Computer Engineering 💻 | C++ & Java & SQL | Web Development (HTML, CSS) | Embedded Systems Interest"
+"Computer Engineering 💻 | C++ & C & Java & SQL | Web Development (HTML, CSS) | Embedded Systems "
 
 
 
 ### 👩‍💻 About Me
 - 🎓 I am continuing my education in the **Computer Engineering** department at **Çankırı Karatekin University**.
-- 💻 I am strengthening my software foundations with **C++, Java**, and **SQL**.
+- 💻 I am strengthening my software foundations with **C++, C, Java**, and **SQL**.
 - 🌐 I am designing web interfaces using **HTML & CSS**.
 - ⚡ I have a special interest in **Embedded Systems**.
 - 🚀 My Goal: To take part in projects that combine software and hardware.
@@ -15,6 +15,7 @@
 ### ⚙️ Tech Stack
 
 #### 💻 Programming Languages & Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white)
